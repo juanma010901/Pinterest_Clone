@@ -140,6 +140,7 @@ header nav img#pinterest-icon:hover {
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr; */
 
     columns: 5 240px;
+    margin: auto;
 
 }
 
