@@ -4,7 +4,7 @@
 
 Accede haciendo click en el siguiente icono:
 <a href="https://juanma010901.github.io/Pinterest_Clone/">
-  <img src="/Resources/Pinterest_Icont.png" alt="Pinterest_Clone" width=40px height=40px>
+  <img src="/Resources/Pinterest_Icon.png" alt="Pinterest_Clone" width=40px height=40px>
 </a>
 
 ## Resultado
