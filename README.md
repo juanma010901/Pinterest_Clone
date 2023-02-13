@@ -1,3 +1,5 @@
+![Visitantes](https://visitor-badge.glitch.me/badge?page_id=juanma010901.Pinterest_Clone&left_text=Visitantes)
+
 # Pinterest Clone 
 
 > El siguiente proyecto buscaba replicar la página de inicio de Pinterest utilizando HTML y CSS
