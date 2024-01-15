@@ -1,4 +1,5 @@
-![Visitantes](https://visitor-badge.glitch.me/badge?page_id=juanma010901.Pinterest_Clone&left_text=Visitantes)
+
+![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=juanma010901.Pinterest_Clone&left_text=Visitantes)
 
 # Pinterest Clone 
 
